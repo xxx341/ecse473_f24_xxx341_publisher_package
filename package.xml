@@ -51,13 +51,13 @@
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>/home/xin/catkin_ws/src</build_depend>
   <build_depend>roscpp</build_depend>
-  <build_depend>std_msgsls</build_depend>
+  <build_depend>std_msgs</build_depend>
   <build_export_depend>/home/xin/catkin_ws/src</build_export_depend>
   <build_export_depend>roscpp</build_export_depend>
-  <build_export_depend>std_msgsls</build_export_depend>
+  <build_export_depend>std_msgs</build_export_depend>
   <exec_depend>/home/xin/catkin_ws/src</exec_depend>
   <exec_depend>roscpp</exec_depend>
-  <exec_depend>std_msgsls</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
 
 
   <!-- The export tag contains other, unspecified, tags -->
